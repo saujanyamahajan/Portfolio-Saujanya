@@ -94,6 +94,7 @@ section .title::after{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    float: right;
 }
 .navbar .logo a{
     color: #fff;
